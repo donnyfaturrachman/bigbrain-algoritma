@@ -1,5 +1,5 @@
 /**
-Step 1: Start
+Step 1: Start 
 Step 2: Declare variables num1, num2 and sum.
 Step 3: Read values num1 and num2.
 Step 4: Add num1 and num2 and assign the result to sum.
