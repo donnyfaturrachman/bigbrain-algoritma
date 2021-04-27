@@ -13,7 +13,7 @@ Display b is the largest number.
 Else
 Display c is the greatest number.
 Step 5: Stop
-*/
+*/ 
 
 <?php
 
